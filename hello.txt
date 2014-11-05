@@ -1,0 +1,7 @@
+Hey github users! We are learning some git commands such as:
+    git pull
+    git push 
+    git clone 
+    git fork
+    git branch
+
